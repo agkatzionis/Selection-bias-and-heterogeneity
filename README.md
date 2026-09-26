@@ -6,4 +6,4 @@ This repository contains the R code used to conduct the simulation study of the 
 3) "SBaH_Final_Analysis.R": Code used to analyze the results and summarize them in tables.
 4) "SBaH_Asymptotic.R": An implementaton of the simulation study with large sample size (table S4 of the paper).
 
-The results can be found in the corresponding ".RData" files.
+The results can be found in the corresponding ".RData" files in the Results folder.
